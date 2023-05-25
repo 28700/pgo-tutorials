@@ -1,0 +1,3 @@
+Klasy: Person, Address, Professor, Student
+Atrybuty: string, int, boolean, float
+Metody: type int i string
